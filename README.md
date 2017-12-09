@@ -18,6 +18,10 @@ https://gitter.im/cucs-numpde/Lobby
 
 ## Homeworks
 
+## Homework 5: due 2017-12-15
+Formally announced on 2017-12-06 in FEM.ipynb.  Solves a coupled Darcy
+and thermal advection-diffusion problem on an unstructured grid.
+
 ## Homework 4: due 2017-11-17
 Announced on 2017-11-06 in FVHyperbolic.ipynb.  Solves the shallow water
 equations using different Riemann solvers and monotone reconstruction
